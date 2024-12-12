@@ -1,4 +1,4 @@
 streamlit
--U langchain-community
+langchain-community
 langchain
 google.generativeai
