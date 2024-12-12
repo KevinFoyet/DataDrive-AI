@@ -1,0 +1,4 @@
+streamlit
+langchain
+langchain.document_loaders.csv_loader
+google.generativeai
