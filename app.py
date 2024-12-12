@@ -5,7 +5,7 @@ from api import get_model_response
 
 # Function to center the logo and title
 def render_header():
-    logo_path = r"C:\Users\Kevin\OneDrive - Cal Poly Pomona\Documents\Personal Projects\AI CSV Analyzer\DataDrive AI Logo.webp"  # Replace with the correct path to your logo
+    logo_path = r"https://raw.githubusercontent.com/KevinFoyet/DataDrive-AI/refs/heads/main/DataDrive%20AI%20Logo.webp" 
 
     # Center the logo and title
     col1, col2, col3 = st.columns([1, 3, 1])
